@@ -38,5 +38,5 @@ Automated trading bot for deriv platform
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/your-username/Smart-deriv-bot.git
+git remote add origin https://github.com/dollarmaster/Smart-deriv-bot.git
 git push -u origin main
